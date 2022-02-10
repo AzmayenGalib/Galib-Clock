@@ -38,6 +38,9 @@ html {
   margin-top: 3rem;
   font-size: 13rem;
 }
+.contain p{
+  display: block;
+}
 
 .color {
   position: absolute;
@@ -119,9 +122,9 @@ html {
     padding: 6rem 0rem;
   }
   .contain p {
-    position: relative;
-    left: 0rem;
-    display: inline-block;
+  
+    
+    display: block;
     color: transparent;
     text-align: center;
     font-size: 8rem;
@@ -133,12 +136,12 @@ html {
 
   .contain h1 {
     font-size: 15rem;
-    margin-top:10rem;
+    margin-top:15rem;
   }
 
   .contain p {
     font-size: 9rem;
     text-align: center;
-    padding-left: 5rem;
+    
   }
 }
