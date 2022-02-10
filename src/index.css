@@ -29,7 +29,7 @@ html {
   margin: 0rem;
   padding: 0rem;
   font-weight: bold;
-
+  
   background-image: url(./img/close-up-golden-glitter-textured-background.jpg);
   background-clip: text;
   background-size: 37.5rem 8rem;
@@ -109,7 +109,7 @@ html {
     top: 50%;
     transform: translate(-50%, -50%);
     height: 80rem;
-    width: 60rem;
+    width: 65rem;
     background: rgba(255, 255, 255, 0.1);
     box-shadow: 2rem 2rem 5rem rgba(0, 0, 0, 0.5);
     border-radius: 2rem;
@@ -139,6 +139,6 @@ html {
   .contain p {
     font-size: 9rem;
     text-align: center;
-    padding: 0px 4rem;
+    padding-left: 7rem;
   }
 }
