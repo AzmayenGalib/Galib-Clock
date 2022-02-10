@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Galib-Clock/static/css/main.e23d0242.css",
+    "main.css": "/Galib-Clock/static/css/main.7f8a560d.css",
     "main.js": "/Galib-Clock/static/js/main.92d55360.js",
     "static/js/787.b972bb5b.chunk.js": "/Galib-Clock/static/js/787.b972bb5b.chunk.js",
     "static/media/close-up-golden-glitter-textured-background.jpg": "/Galib-Clock/static/media/close-up-golden-glitter-textured-background.dd2c7f164af4e753a695.jpg",
     "index.html": "/Galib-Clock/index.html",
-    "main.e23d0242.css.map": "/Galib-Clock/static/css/main.e23d0242.css.map",
+    "main.7f8a560d.css.map": "/Galib-Clock/static/css/main.7f8a560d.css.map",
     "main.92d55360.js.map": "/Galib-Clock/static/js/main.92d55360.js.map",
     "787.b972bb5b.chunk.js.map": "/Galib-Clock/static/js/787.b972bb5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e23d0242.css",
+    "static/css/main.7f8a560d.css",
     "static/js/main.92d55360.js"
   ]
 }
