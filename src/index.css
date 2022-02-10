@@ -133,12 +133,12 @@ html {
 
   .contain h1 {
     font-size: 15rem;
-    margin-top: 7rem;
+    margin-top:10rem;
   }
 
   .contain p {
     font-size: 9rem;
     text-align: center;
-    padding-left: 7rem;
+    padding-left: 5rem;
   }
 }
