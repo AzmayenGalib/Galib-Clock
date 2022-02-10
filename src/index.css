@@ -12,7 +12,7 @@ html {
   top: 50%;
   transform: translate(-50%, -50%);
   height: 50rem;
-  width: 70rem;
+  width: 80rem;
   background: rgba(255, 255, 255, 0.1);
   box-shadow: 2rem 2rem 5rem rgba(0, 0, 0, 0.5);
   border-radius: 2rem;
